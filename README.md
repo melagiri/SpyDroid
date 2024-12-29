@@ -1,4 +1,4 @@
-<<<<<< This was an early attempt of mine back in 2012-13 while i was in college and trying to learn Android Application Development >>>>>
+<<<<<< This was an early attempt of mine back in 2012-13 while i was in college and trying to learn Android Development >>>>>
 
 The code is naive and very premature. Also the wordings used to explain the flow. Just adding this to git to keep track of it...
 
