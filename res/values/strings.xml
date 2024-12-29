@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Spy Droid</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="string_touch_screen">Please Touch the Screen</string>
+    <string name="preferences">SPY DROID PREFERENCES</string>
+    <string name="enable_tracking">Enable Theft Reporting</string>
+    <string name="sms_reporting">Enable SMS Reporting</string>
+    <string name="email_reporting">Enable Email Reporting</string>
+    <string name="hint_sms_alert">SMS Alert Number</string>
+    <string name="hint_email_alert">Email Alert Address</string>
+	<string name="nothing"> </string>
+	<string name="imei">IMEI : </string>
+	<string name="change">Change</string>
+	
+    
+</resources>
